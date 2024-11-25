@@ -1,4 +1,4 @@
-This is freertos project to run on raspberry pi pico with the ability to access to bootsel mode 
+This is freertos project to blibk led  on  a raspberry pi pico with the ability to access to bootsel mode 
 
 The tools you need : pico-sdk : 
 
