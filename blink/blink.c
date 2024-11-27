@@ -6,7 +6,7 @@
 
 void vBlinkTask() {
 
-   for (;;) {
+   while (true) {
 
       gpio_put(PICO_DEFAULT_LED_PIN, 1);
 
