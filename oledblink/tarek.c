@@ -325,13 +325,13 @@ void oled(){
 
 
   char *text[] = {
-        " Eu disso : ",
-        "Meu nome esta ",
+        "  ",
+        "Me
         " Tarek" ,
-        "vc Charliana?",
-        "  Ti",
-        "  Amo     ",
-        "  Muito",
+        "",
+        "" ,
+        "  ",
+        " ",
     };
     
 struct render_area frame_area = {
