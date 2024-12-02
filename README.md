@@ -13,6 +13,6 @@ And the Freertos-Kernel Submodules :
 
 
 
-#if you like the project , you can donate us for more : 
+if you like the project , you can donate us for more : 
 
     https://ko-fi.com/heyitsmeyo
