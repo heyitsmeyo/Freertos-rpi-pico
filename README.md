@@ -8,3 +8,11 @@ And the Freertos-Kernel Submodules :
 
     git clone -b smp https://github.com/FreeRTOS/FreeRTOS-Kernel --recurse-submodules
 
+
+
+
+
+
+#if you like the project , you can donate us for more : 
+
+    https://ko-fi.com/heyitsmeyo
