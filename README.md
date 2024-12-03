@@ -2,15 +2,19 @@
 
 The tools you need : pico-sdk : 
 
-    git clone https://github.com/raspberrypi/pico-sdk
+     git clone https://github.com/RaspberryPi/pico-sdk --recurse-submodules
 
 And the Freertos-Kernel Submodules : 
 
     git clone -b smp https://github.com/FreeRTOS/FreeRTOS-Kernel --recurse-submodules
 
+Add pico sdk path : 
 
+    export PICO_SDK_PATH=$PWD/pico-sdk
 
+Add Freertos path : 
 
+     export FREERTOS_KERNEL_PATH=$PWD/FreeRTOS-Kernel
 
 # if you like the project , you can donate us for more : 
 
