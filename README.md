@@ -16,6 +16,11 @@ Add Freertos path :
 
      export FREERTOS_KERNEL_PATH=$PWD/FreeRTOS-Kernel
 
+
+To access to bootsel mode : 
+
+     sudo picotool reboot -f -u 
+
 # if you like the project , you can donate us for more : 
 
     https://ko-fi.com/heyitsmeyo
